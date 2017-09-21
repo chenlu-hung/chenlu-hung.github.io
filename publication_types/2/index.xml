@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Chen, Lu-Hung</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Chen, Lu-Hung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chen, Lu-Hung</copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multi-dimensional Functional Principal Component Analysis</title>
+      <link>/publication/mfpca/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mfpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical estimation in generalized multiparameter likelihood models</title>
+      <link>/publication/gmlm/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gmlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional variance estimation in heteroscedastic regression models</title>
+      <link>/publication/varest/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/varest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

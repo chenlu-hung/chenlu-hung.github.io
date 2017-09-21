@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Chen, Lu-Hung</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Chen, Lu-Hung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chen, Lu-Hung</copyright>
+    <lastBuildDate>Thu, 28 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fisher&#39;s Discriminant with Natural Image Priors</title>
+      <link>/publication/bflda/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bflda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A monotonic constrained regression framework for histogram equalization and specification</title>
+      <link>/publication/creghisteq/</link>
+      <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/creghisteq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

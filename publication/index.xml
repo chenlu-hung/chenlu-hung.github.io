@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Chen, Lu-Hung</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Chen, Lu-Hung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chen, Lu-Hung</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sensible Functional Linear Discriminant Analysis</title>
+      <link>/publication/sflda/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sflda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional Functional Principal Component Analysis</title>
+      <link>/publication/mfpca/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mfpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisher&#39;s Discriminant with Natural Image Priors</title>
+      <link>/publication/bflda/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bflda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A monotonic constrained regression framework for histogram equalization and specification</title>
+      <link>/publication/creghisteq/</link>
+      <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/creghisteq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illumination Invariant Feature Extraction Based on Natural Images Statistics, Taking Face Images as an Example</title>
+      <link>/publication/nifeaext/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nifeaext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical estimation in generalized multiparameter likelihood models</title>
+      <link>/publication/gmlm/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gmlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional variance estimation in heteroscedastic regression models</title>
+      <link>/publication/varest/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/varest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

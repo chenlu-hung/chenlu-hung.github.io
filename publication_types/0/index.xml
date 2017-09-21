@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Chen, Lu-Hung</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Chen, Lu-Hung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chen, Lu-Hung</copyright>
+    <lastBuildDate>Wed, 06 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/0/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sensible Functional Linear Discriminant Analysis</title>
+      <link>/publication/sflda/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sflda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illumination Invariant Feature Extraction Based on Natural Images Statistics, Taking Face Images as an Example</title>
+      <link>/publication/nifeaext/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nifeaext/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
